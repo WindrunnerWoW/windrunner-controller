@@ -29,6 +29,10 @@
 
 Windrunner Controller turns World of Warcraft 1.12.1 into a controller-first game. It combines a complete console-style interface addon with a native Windows DLL that reads Xbox/XInput and Sony DualSense controllers directly. Connect a controller and the interface appears. Disconnect it and the normal UI comes back.
 
+## 🙏 Credits
+
+Windrunner Controller builds on [ConsoleExperience](https://github.com/pepordev/ConsoleExperienceClassic) by **[pepordev](https://github.com/pepordev)**. The console-style interface, action bars, radial menu, and on-screen keyboard all began in that project, and much of the addon code here still derives from it. Thank you, Pedro.
+
 ## 🚀 Features
 
 - **Native controller input** — XInput, DualSense, and DualSense Edge over USB or Bluetooth.
